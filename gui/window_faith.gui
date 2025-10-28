@@ -484,7 +484,6 @@ window = {
 											text_single = {
 												name = "doctrine_name"
 												align = center
-												#raw_text = "Bingo Bongo Tongo gyngo"
 												text = "[FaithDoctrine.GetNameNoTooltip( GuiFaithDoctrineItem.GetFaith )]"
 												default_format = "#high"
 												multiline = yes
