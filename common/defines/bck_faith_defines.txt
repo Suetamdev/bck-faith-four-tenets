@@ -1,0 +1,3 @@
+﻿NReligion = {
+	FAITH_CORE_TENETS_CAP = 4
+}
