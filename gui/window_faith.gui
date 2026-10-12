@@ -2370,6 +2370,7 @@ types FaithWindow
 
 			text_label_center = {
 				name = "tenet_name"
+				autoresize = no
 				layoutpolicy_horizontal = expanding
 				maximumsize = { 104 44 }
 				visible = "[TenetType.IsValid]"
